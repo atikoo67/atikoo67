@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Atik
+# 👋 Hi, I'm Atikoo
 
 I'm a **Mobile Developer** specializing in cross-platform mobile applications using modern frameworks and backend services.
 
