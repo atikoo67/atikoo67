@@ -47,7 +47,7 @@
 ### Top Languages and Frameworks:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeneanDita&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atikoo67&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 </div>
