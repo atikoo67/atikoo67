@@ -37,7 +37,6 @@ Focused on delivering scalable, user‑friendly solutions with modern tools and 
   <tr>
     <td><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white" /></td>
    <td><img src="https://img.shields.io/badge/FlutterFlow-%2361DAFB.svg?&style=flat&logo=flutter&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/FlutterFlow-%2361DAFB.svg?&style=flat&logo=flutter&logoColor=white" /></td>
   </tr>
 </table>
 
